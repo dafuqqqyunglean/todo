@@ -1,0 +1,1 @@
+INSERT INTO todo_items (title, description) values ($1, $2) RETURNING id

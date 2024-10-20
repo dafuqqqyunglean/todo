@@ -1,0 +1,1 @@
+DELETE FROM todo_lists tl USING users_lists ul WHERE tl.id = ul.list_id AND ul.user_id = $1 AND ul.list_id = $2

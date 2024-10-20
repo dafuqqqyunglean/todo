@@ -1,0 +1,1 @@
+INSERT INTO lists_items (list_id, item_id) values ($1, $2)

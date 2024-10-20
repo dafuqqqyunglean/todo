@@ -1,0 +1,1 @@
+INSERT INTO todo_lists (title, description) VALUES ($1, $2) RETURNING id

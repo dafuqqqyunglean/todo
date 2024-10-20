@@ -1,0 +1,1 @@
+SELECT ti.id, ti.title, ti.description, ti.done FROM todo_items ti INNER JOIN lists_items li on li.item_id = ti.id INNER JOIN users_lists ul on ul.list_id = li.list_id WHERE ti.id = $1 AND ul.user_id = $2

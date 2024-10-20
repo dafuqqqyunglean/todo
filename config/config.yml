@@ -1,0 +1,14 @@
+port: "8000"
+
+db:
+  username: "todo_user"
+  host: "postgres" # service name from docker-compose
+  port: "5432"
+  dbname: "postgres"
+  sslmode: "disable"
+
+redis:
+  host: "redis"
+  port: "6379"
+  password: ""
+  db: 0

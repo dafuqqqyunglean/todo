@@ -1,0 +1,1 @@
+DELETE FROM todo_items ti USING lists_items li, users_lists ul WHERE ti.id = li.item_id AND li.list_id = ul.list_id AND ul.user_id = $1 AND ti.id = $2
