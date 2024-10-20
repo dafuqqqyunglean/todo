@@ -14,22 +14,20 @@ docker compose exec app migrate -path ./schema -database 'postgres://todo_user:t
 ## Запросы
 ### **Аутентификация:**
 
-![image](https://github.com/user-attachments/assets/0fbd2750-e715-48dc-ada3-98aa0b905e97)
-
-![image](https://github.com/user-attachments/assets/1aa9e14a-9b5f-49d4-83e4-65582155cbfa)
+![image](https://github.com/user-attachments/assets/36f0d69b-1723-4eb3-9570-039d4ebf456e)
 
 ### **Post:**
 
-![image](https://github.com/user-attachments/assets/6d7c3027-9fb5-4cfb-91e6-d52a0f974446)
+![image](https://github.com/user-attachments/assets/b4fe9a0d-3848-4cb4-bf4c-6005950b901a)
 
 ### **Get:**
 
-![image](https://github.com/user-attachments/assets/9539da9a-7d19-49bc-aae6-1f621a4d55d5)
+![image](https://github.com/user-attachments/assets/57cb29ef-30a5-4ac6-93c9-305b8b6d34f9)
 
 ### **Put:**
 
-![image](https://github.com/user-attachments/assets/21d8dece-7714-4c59-8a52-fc80dfb41973)
+![image](https://github.com/user-attachments/assets/1891045e-1f0d-4da8-8828-e87fc5e8624d)
 
 ### **Delete:**
 
-![image](https://github.com/user-attachments/assets/94d91422-a62b-44b5-8c0a-8cb813facf23)
+![image](https://github.com/user-attachments/assets/17159d67-fd5a-41e4-bf78-64ec23abcdd2)
